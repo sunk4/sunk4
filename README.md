@@ -1,6 +1,6 @@
 ![cover](https://user-images.githubusercontent.com/90051012/150563135-4ca2c089-6527-4b3c-95f0-4af3e6e06f52.png)
 <h2 align="center">Hi there 👋, My Name is Roman</h1>
-<h3 align="center">I am a Software Engineer based in Bratislava, Slovakia. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.</h3>
+<h3 align="center">I am a Software Engineer based in Bratislava, Slovakia. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing software solutions for your company.</h3>
 
 - 👨‍💻 All of my projects are available at [https://romantrnka.netlify.app/](https://romantrnka.netlify.app/)
 
